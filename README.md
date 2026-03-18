@@ -1,16 +1,92 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vijender Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | AI Enthusiast</h3>
 
-<!--
-**ProgrammerVijender/ProgrammerVijender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Expert;AI+Projects+Builder;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on **MERN + AI Projects**
+- 💡 Interested in **Cybersecurity & Networking**
+- 🧠 Strong in **DSA & Problem Solving**
+- 🚀 Goal: Crack **Top Product-Based Companies**
+- 📍 Based in India
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- C++
+- JavaScript
+- Python
+
+### 🌐 Frontend
+- React.js
+- HTML5, CSS3
+- Tailwind CSS
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+
+### 🗄️ Database
+- MongoDB
+- MySQL
+
+### 🔧 Tools
+- Git & GitHub
+- Postman
+- VS Code
+- Docker (Basics)
+
+---
+
+## 🚀 Projects
+
+### 🔹 Firewall Vulnerability Finder
+- AI-based system to detect vulnerabilities
+- Tech: MERN + GenAI API
+
+### 🔹 Job Portal Application
+- Full stack job platform with authentication
+- Tech: MERN Stack
+
+### 🔹 OLT Monitoring System
+- ISP-based system to monitor network ports
+- Tech: Node.js + Networking APIs
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerVijender&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerVijender&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Built Real-world ISP Networking Projects
+- 🚀 Completed Internship at DRDO
+- 💡 Created AI-based Security Tools
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+  <a href="mailto:vijenderkumar4pc@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail"></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💬 "I don’t just write code, I build real-world solutions 🚀"
