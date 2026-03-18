@@ -55,10 +55,6 @@
 - Full stack job platform with authentication
 - Tech: MERN Stack
 
-### 🔹 OLT Monitoring System
-- ISP-based system to monitor network ports
-- Tech: Node.js + Networking APIs
-
 ---
 
 ## 📊 GitHub Stats
