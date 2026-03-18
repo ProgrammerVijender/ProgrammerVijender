@@ -77,7 +77,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+  <a href="https://linkedin.com/in/vijender--kumar/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
   <a href="mailto:vijenderkumar4pc@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail"></a>
 </p>
 
