@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijender Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | AI Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | AI Enthusiast | Devops</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Expert;AI+Projects+Builder;Always+Learning+New+Things&center=true&width=500&height=50">
