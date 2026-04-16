@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently working on **MERN + AI Projects**
-- 💡 Interested in **Cybersecurity & Networking**
+- 💡 Interested in **Software Development & Fullstack Development & Devops**
 - 🧠 Strong in **DSA & Problem Solving**
 - 🚀 Goal: Crack **Top Product-Based Companies**
 - 📍 Based in India
